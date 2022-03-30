@@ -42,6 +42,6 @@ status-website:
   introMessage: "Updated every 5 mins"
   navbar:
     - title: Status
-      href: /
+      href: https://minhh2792.github.io/uptime/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
