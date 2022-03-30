@@ -1,7 +1,7 @@
-url: https://minhh2792.me
+url: $SERVER_IP
 status: up
 code: 200
-responseTime: 785
-lastUpdated: 2022-03-30T16:31:51.998Z
+responseTime: 175
+lastUpdated: 2022-03-30T16:34:17.990Z
 startTime: Wed Mar 30 2022 15:36:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
