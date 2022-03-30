@@ -45,7 +45,7 @@ status-website:
   name: Uptime Monitor
   introTitle: ""
   introMessage: ""
-  css: "body { font-family: Jetbrains Mono }"
+  css: "body { font-family: Ubuntu }"
   navbar:
     - title: Status
       href: https://minhh2792.github.io/uptime/
