@@ -36,10 +36,10 @@ status-website:
   baseUrl: /uptime
   logoUrl: 'https://github.com/minhh2792/uptime/raw/master/assets/upptime-icon.svg'
   favicon: https://i.imgur.com/iiyljA2.jpg
-  theme: dark
+  theme: night
   name: Uptime Monitor
-  introTitle: "Kiwi personal uptime monitor."
-  introMessage: "Updated every 5 mins"
+  introTitle: ""
+  introMessage: ""
   navbar:
     - title: Status
       href: https://minhh2792.github.io/uptime/
