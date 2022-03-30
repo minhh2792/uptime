@@ -31,14 +31,14 @@ sites:
   - name: Kiwi Debian server
     url: $SERVER_IP
     maxResponseTime: 5000
-    
 
 status-website:
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  theme: dark
   name: Uptime Monitor
   introTitle: "Kiwi personal uptime monitor."
-  introMessage: "[**Powered by Upptime**](https://github.com/upptime/upptime)"
+  introMessage: ""
   navbar:
     - title: Status
       href: /
