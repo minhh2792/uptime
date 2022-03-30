@@ -7,6 +7,7 @@ sites:
     url: minevn.net
     port: 25565
     maxResponseTime: 5000
+    icon: https://i.imgur.com/OGV4Bar.png
   - name: MineVN Maven & Resource pack
     url: http://app.minevn.net/pack
     maxResponseTime: 5000
@@ -14,6 +15,7 @@ sites:
       - 200
       - 201
       - 404
+    icon: https://i.imgur.com/OGV4Bar.png
   - name: MineVN Website
     url: http://minevn.net
     maxResponseTime: 5000
@@ -21,6 +23,7 @@ sites:
       - 200
       - 201
       - 404
+    icon: https://i.imgur.com/OGV4Bar.png
   - name: Kiwi AdguardHome server
     url: https://minhh2792.me
     maxResponseTime: 5000
@@ -28,15 +31,17 @@ sites:
       - 200
       - 201
       - 404
+    icon: https://i.imgur.com/pRa8pFr.png
   - name: Kiwi Debian server
     url: $SERVER_IP
     maxResponseTime: 5000
+    icon: https://i.imgur.com/HDEi4j5.png
 
 status-website:
   baseUrl: /uptime
-  logoUrl: 'https://github.com/minhh2792/uptime/raw/master/assets/upptime-icon.svg'
-  favicon: https://i.imgur.com/iiyljA2.jpg
-  theme: night
+  logoUrl: 'https://i.imgur.com/jvCuSsD.png'
+  favicon: https://i.imgur.com/jvCuSsD.png
+  theme: ocean
   name: Uptime Monitor
   introTitle: ""
   introMessage: ""
