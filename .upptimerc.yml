@@ -34,12 +34,12 @@ sites:
 
 status-website:
   baseUrl: /uptime
-  logoUrl: ''
+  logoUrl: 'https://github.com/minhh2792/uptime/raw/master/assets/upptime-icon.svg'
   favicon: https://i.imgur.com/iiyljA2.jpg
   theme: dark
   name: Uptime Monitor
   introTitle: "Kiwi personal uptime monitor."
-  introMessage: "> Updated every 5 mins"
+  introMessage: "Updated every 5 mins"
   navbar:
     - title: Status
       href: /
