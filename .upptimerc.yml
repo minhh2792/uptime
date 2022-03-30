@@ -34,7 +34,8 @@ sites:
 
 status-website:
   baseUrl: /uptime
-  logoUrl: https://i.imgur.com/iiyljA2.jpg
+  logoUrl: ''
+  favicon: https://i.imgur.com/iiyljA2.jpg
   theme: dark
   name: Uptime Monitor
   introTitle: "Kiwi personal uptime monitor."
