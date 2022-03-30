@@ -1,28 +1,44 @@
-# Change these first
-owner: minhh2792 # Your GitHub organization or username, where this repository lives
-repo: uptime # The name of this repository
+owner: minhh2792
+repo: uptime
 
 sites:
   - name: MineVN Network
     check: "tcp-ping"
     url: minevn.net
     port: 25565
+    maxResponseTime: 5000
   - name: MineVN Maven & Resource pack
     url: http://app.minevn.net/pack
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: MineVN Website
     url: http://minevn.net
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: Kiwi AdguardHome server
     url: https://minhh2792.me
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: Kiwi Debian server
     url: $SERVER_IP
+    maxResponseTime: 5000
     
 
 status-website:
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime Monitor
-  introTitle: "Kiwi's personal uptime monitor."
-  introMessage: [**Powered by Upptime**](https://github.com/upptime/upptime)
+  introTitle: "Kiwi personal uptime monitor."
+  introMessage: "[**Powered by Upptime**](https://github.com/upptime/upptime)"
   navbar:
     - title: Status
       href: /
