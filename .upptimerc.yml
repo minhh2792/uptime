@@ -41,7 +41,7 @@ status-website:
   baseUrl: /uptime
   logoUrl: 'https://i.imgur.com/jvCuSsD.png'
   favicon: https://i.imgur.com/jvCuSsD.png
-  theme: ocean
+  theme: night
   name: Uptime Monitor
   introTitle: ""
   introMessage: ""
