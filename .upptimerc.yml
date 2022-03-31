@@ -73,8 +73,8 @@ i18n:
   liveStatus: Trạng thái
   overallUptime: "Thời gian hoạt động: $UPTIME"
   overallUptimeTitle: Thời gian hoạt động
-  averageResponseTime: "Thời gian phản hồi trung bình: $TIMEms"
-  averageResponseTimeTitle: Thời gian phản hồi trung bình
+  averageResponseTime: "Thời gian phản hồi: $TIMEms"
+  averageResponseTimeTitle: Thời gian phản hồi
   sevelDayResponseTime: Thời gian phản hồi trong 7 ngày
   responseTimeMs: Thời gian phản hồi (ms)
   up: Đang hoạt động
