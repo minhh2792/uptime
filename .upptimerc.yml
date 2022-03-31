@@ -5,8 +5,8 @@ sites:
   - name: MineVN Network
     check: "tcp-ping"
     url: minevn.net
-    port: 25565
     maxResponseTime: 5000
+    port: 25565
     icon: https://i.imgur.com/OGV4Bar.png
   - name: MineVN Maven & Resource pack
     url: http://app.minevn.net/pack
@@ -27,8 +27,8 @@ sites:
   - name: Kiwi AdguardHome server
     check: "tcp-ping"
     url: $SERVER_IP
-    port: 53
     maxResponseTime: 5000
+    port: 53
     expectedStatusCodes:
       - 200
       - 201
