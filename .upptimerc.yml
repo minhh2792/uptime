@@ -41,15 +41,59 @@ sites:
 
 status-website:
   baseUrl: /uptime
-  logoUrl: 'https://i.imgur.com/jvCuSsD.png'
+  logoUrl: "https://i.imgur.com/jvCuSsD.png"
   favicon: https://i.imgur.com/jvCuSsD.png
   theme: night
   name: Uptime Monitor
   introTitle: ""
   introMessage: ""
-  css: "body { font-family: Ubuntu }"
+  css: "body { font-family: Jetbrains Mono Light }"
   navbar:
     - title: Status
       href: https://minhh2792.github.io/uptime/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  i18n:
+    ctiveIncidents: Sự cố đang xảy ra
+    allSystemsOperational: Tất cả hệ thống đang hoạt động
+    incidentReport: "Báo cáo sự cố #$NUMBER →"
+    activeIncidentSummary: Mở vào $DATE với $POSTS cập nhật
+    incidentTitle: Thông tin về sự cố $NUMBER
+    incidentDetails: Thông tin sự cố
+    incidentFixed: Đã khắc phục
+    incidentOngoing: Đang xảy ra
+    incidentOpenedAt: Mở vào
+    incidentClosedAt: Đóng vào
+    incidentSubscribe: Subscribe to Updates
+    incidentViewOnGitHub: View on GitHub
+    incidentCommentSummary: Cập nhật vào $DATE bởi $AUTHOR
+    incidentBack: ← Quay lại
+    pastIncidents: Sự cố đã xảy ra
+    pastIncidentsResolved: Khắc phục sau $MINUTES phút với $POSTS cập nhật
+    liveStatus: Trạng thái
+    overallUptime: "Thời gian hoạt động: $UPTIME"
+    overallUptimeTitle: Thời gian hoạt động
+    averageResponseTime: "Thời gian phản hồi trung bình: $TIMEms"
+    averageResponseTimeTitle: Thời gian phản hồi trung bình
+    sevelDayResponseTime: Thời gian phản hồi trong 7 ngày
+    responseTimeMs: Thời gian phản hồi (ms)
+    up: Đang hoạt động
+    down: Đang sập
+    degraded: Sụt giảm hiệu năng
+    ms: ms
+    loading: Đang tải
+    navGitHub: GitHub
+    errorTitle: Có lỗi xảy ra
+    errorIntro: Có lỗi xảy ra khi cập nhật thông tin.
+    errorText: Hãy thử lại sau.
+    errorHome: Quay lại trang chủ
+    pastScheduledMaintenance: Lịch sử bảo trì đã lên lịch
+    scheduledMaintenance: Bảo trì đã lên lịch
+    scheduledMaintenanceSummaryStarted: Bắt đầu vào $DATE trong $DURATION phút
+    scheduledMaintenanceSummaryStarts: Bắt đầu vào $DATE trong $DURATION phút
+    startedAt: Bắt đầu vào
+    startsAt: Bắt đầu vào
+    duration: Thời gian
+    durationMin: $DURATION phút
+    incidentCompleted: Đã hoàn thành
+    incidentScheduled: Đã lên lịch
