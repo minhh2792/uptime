@@ -42,19 +42,19 @@
     "url": "http://minevn.net",
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-website",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 748,
-    "timeDay": 804,
-    "timeWeek": 767,
-    "timeMonth": 748,
-    "timeYear": 748,
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "97.59%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
+    "time": 742,
+    "timeDay": 701,
+    "timeWeek": 748,
+    "timeMonth": 742,
+    "timeYear": 742,
     "dailyMinutesDown": {
-      "2022-04-08": 11
+      "2022-04-08": 35
     }
   },
   {
