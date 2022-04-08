@@ -23,18 +23,18 @@
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-maven-and-resource-pack",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.80%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
     "time": 1075,
     "timeDay": 1048,
     "timeWeek": 1098,
     "timeMonth": 1075,
     "timeYear": 1075,
     "dailyMinutesDown": {
-      "2022-04-08": 0
+      "2022-04-08": 26
     }
   },
   {
@@ -42,9 +42,9 @@
     "url": "http://minevn.net",
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +53,9 @@
     "timeWeek": 767,
     "timeMonth": 748,
     "timeYear": 748,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-08": 0
+    }
   },
   {
     "name": "Kiwi AdguardHome server",
