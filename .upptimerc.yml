@@ -40,10 +40,6 @@ sites:
       - 201
       - 404
     icon: https://i.imgur.com/pRa8pFr.png
-  - name: Debian server
-    url: $SERVER_IP
-    maxResponseTime: 5000
-    icon: https://i.imgur.com/HDEi4j5.png
 
 status-website:
   baseUrl: /uptime
