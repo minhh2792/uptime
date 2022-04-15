@@ -36,7 +36,7 @@ sites:
     maxResponseTime: 5000
     port: 8080
     icon: https://i.imgur.com/FH8hcmg.png
-  - name: Node 1 (Vietnam)
+  - name: Node 3 (Vietnam)
     check: "tcp-ping"
     url: $VN_NODE
     maxResponseTime: 5000
