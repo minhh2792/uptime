@@ -30,17 +30,7 @@ sites:
     expectedStatusCodes:
       - 200
     icon: https://i.imgur.com/WYyj7ut.png
-  - name: AdguardHome server
-    check: "tcp-ping"
-    url: $SERVER_IP
-    maxResponseTime: 5000
-    port: 53
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 404
-    icon: https://i.imgur.com/pRa8pFr.png
-
+ 
 status-website:
   baseUrl: /uptime
   logoUrl: "https://i.imgur.com/jvCuSsD.png"
