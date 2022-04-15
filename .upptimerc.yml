@@ -24,6 +24,12 @@ sites:
       - 201
       - 404
     icon: https://i.imgur.com/OGV4Bar.png
+  - name: Pterodactyl 
+    url: $PANEL_URL
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+    icon: https://i.imgur.com/WYyj7ut.png
   - name: AdguardHome server
     check: "tcp-ping"
     url: $SERVER_IP
