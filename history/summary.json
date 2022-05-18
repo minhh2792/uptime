@@ -84,28 +84,30 @@
     "url": "$SING_NODE",
     "icon": "https://i.imgur.com/FH8hcmg.png",
     "slug": "node-2-singapore",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 189,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 187,
     "timeYear": 189,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-18": 3
+    }
   },
   {
     "name": "Node 3 (Vietnam)",
     "url": "$VN_NODE",
     "icon": "https://i.imgur.com/FH8hcmg.png",
     "slug": "node-3-vietnam",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 203,
@@ -113,16 +115,18 @@
     "timeWeek": 0,
     "timeMonth": 192,
     "timeYear": 203,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-18": 1
+    }
   },
   {
     "name": "Pterodactyl Panel",
     "url": "$PANEL_IP",
     "icon": "https://i.imgur.com/WYyj7ut.png",
     "slug": "pterodactyl-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -131,6 +135,8 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 48,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-18": 0
+    }
   }
 ]
