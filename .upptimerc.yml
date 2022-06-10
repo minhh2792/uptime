@@ -24,30 +24,6 @@ sites:
       - 201
       - 404
     icon: https://i.imgur.com/OGV4Bar.png
-  - name: Node 1 (US)
-    check: "tcp-ping"
-    url: $US_NODE
-    maxResponseTime: 5000
-    port: 8080
-    icon: https://i.imgur.com/FH8hcmg.png
-  - name: Node 2 (Singapore)
-    check: "tcp-ping"
-    url: $SING_NODE
-    maxResponseTime: 5000
-    port: 8080
-    icon: https://i.imgur.com/FH8hcmg.png
-  - name: Node 3 (Vietnam)
-    check: "tcp-ping"
-    url: $VN_NODE
-    maxResponseTime: 5000
-    port: 8080
-    icon: https://i.imgur.com/FH8hcmg.png
-  - name: Pterodactyl Panel
-    check: "tcp-ping"
-    url: $PANEL_IP
-    maxResponseTime: 5000
-    port: 8080
-    icon: https://i.imgur.com/WYyj7ut.png
  
 status-website:
   baseUrl: /uptime
