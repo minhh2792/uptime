@@ -1,7 +1,7 @@
 url: http://app.minevn.net/pack
-status: up
+status: degraded
 code: 404
-responseTime: 1452
-lastUpdated: 2022-09-20T15:01:50.205Z
+responseTime: 13554
+lastUpdated: 2022-09-20T22:21:35.256Z
 startTime: Wed Mar 30 2022 15:35:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
