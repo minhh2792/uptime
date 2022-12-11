@@ -5,11 +5,11 @@
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-network",
     "status": "up",
-    "uptime": "61.94%",
+    "uptime": "61.96%",
     "uptimeDay": "85.59%",
     "uptimeWeek": "97.46%",
     "uptimeMonth": "80.73%",
-    "uptimeYear": "61.94%",
+    "uptimeYear": "61.96%",
     "time": 235,
     "timeDay": 237,
     "timeWeek": 274,
@@ -137,19 +137,19 @@
     "url": "http://app.minevn.net/pack",
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-maven-and-resource-pack",
-    "status": "up",
-    "uptime": "60.42%",
-    "uptimeDay": "68.55%",
-    "uptimeWeek": "80.68%",
+    "status": "down",
+    "uptime": "60.46%",
+    "uptimeDay": "74.06%",
+    "uptimeWeek": "81.23%",
     "uptimeMonth": "75.30%",
-    "uptimeYear": "60.42%",
+    "uptimeYear": "60.46%",
     "time": 1584,
-    "timeDay": 1363,
-    "timeWeek": 1400,
+    "timeDay": 1335,
+    "timeWeek": 1403,
     "timeMonth": 1544,
     "timeYear": 1584,
     "dailyMinutesDown": {
-      "2022-12-11": 274,
+      "2022-12-11": 275,
       "2022-12-10": 439,
       "2022-12-09": 203,
       "2022-12-08": 170,
@@ -271,7 +271,7 @@
       "2022-07-31": 1039,
       "2022-07-30": 617,
       "2022-07-29": 273,
-      "2022-07-28": 641
+      "2022-07-28": 565
     }
   },
   {
@@ -279,15 +279,15 @@
     "url": "http://minevn.net",
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-website",
-    "status": "up",
-    "uptime": "59.20%",
-    "uptimeDay": "68.97%",
-    "uptimeWeek": "81.33%",
+    "status": "down",
+    "uptime": "59.25%",
+    "uptimeDay": "74.49%",
+    "uptimeWeek": "81.87%",
     "uptimeMonth": "75.46%",
-    "uptimeYear": "59.20%",
+    "uptimeYear": "59.25%",
     "time": 1393,
-    "timeDay": 1105,
-    "timeWeek": 1106,
+    "timeDay": 1097,
+    "timeWeek": 1109,
     "timeMonth": 1383,
     "timeYear": 1393,
     "dailyMinutesDown": {
@@ -416,8 +416,7 @@
       "2022-07-28": 917,
       "2022-07-27": 1440,
       "2022-07-26": 1440,
-      "2022-07-25": 1203,
-      "2022-07-24": 106
+      "2022-07-25": 1203
     }
   }
 ]
