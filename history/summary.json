@@ -5,11 +5,11 @@
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-network",
     "status": "up",
-    "uptime": "62.26%",
-    "uptimeDay": "85.45%",
+    "uptime": "62.27%",
+    "uptimeDay": "86.20%",
     "uptimeWeek": "94.40%",
     "uptimeMonth": "80.16%",
-    "uptimeYear": "62.26%",
+    "uptimeYear": "62.27%",
     "time": 235,
     "timeDay": 0,
     "timeWeek": 273,
@@ -139,19 +139,19 @@
     "url": "http://app.minevn.net/pack",
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-maven-and-resource-pack",
-    "status": "up",
-    "uptime": "60.12%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "51.37%",
+    "status": "down",
+    "uptime": "60.14%",
+    "uptimeDay": "3.35%",
+    "uptimeWeek": "51.36%",
     "uptimeMonth": "67.10%",
-    "uptimeYear": "60.12%",
+    "uptimeYear": "60.14%",
     "time": 1583,
     "timeDay": 1442,
-    "timeWeek": 1401,
+    "timeWeek": 1396,
     "timeMonth": 1543,
     "timeYear": 1583,
     "dailyMinutesDown": {
-      "2022-12-14": 372,
+      "2022-12-14": 373,
       "2022-12-13": 1440,
       "2022-12-12": 1440,
       "2022-12-11": 615,
@@ -274,7 +274,7 @@
       "2022-08-02": 1440,
       "2022-08-01": 1209,
       "2022-07-31": 1039,
-      "2022-07-30": 617
+      "2022-07-30": 557
     }
   },
   {
@@ -282,15 +282,15 @@
     "url": "http://minevn.net",
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-website",
-    "status": "up",
-    "uptime": "59.89%",
-    "uptimeDay": "0.01%",
+    "status": "down",
+    "uptime": "59.96%",
+    "uptimeDay": "3.41%",
     "uptimeWeek": "51.97%",
-    "uptimeMonth": "67.27%",
-    "uptimeYear": "59.89%",
+    "uptimeMonth": "67.26%",
+    "uptimeYear": "59.96%",
     "time": 1391,
     "timeDay": 851,
-    "timeWeek": 1111,
+    "timeWeek": 1110,
     "timeMonth": 1243,
     "timeYear": 1391,
     "dailyMinutesDown": {
@@ -419,7 +419,7 @@
       "2022-07-31": 1055,
       "2022-07-30": 617,
       "2022-07-29": 273,
-      "2022-07-28": 565
+      "2022-07-28": 309
     }
   }
 ]
