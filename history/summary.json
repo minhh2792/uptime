@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "62.69%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.40%",
+    "uptimeWeek": "94.88%",
     "uptimeMonth": "80.16%",
     "uptimeYear": "62.69%",
     "time": 236,
     "timeDay": 288,
-    "timeWeek": 277,
+    "timeWeek": 272,
     "timeMonth": 292,
     "timeYear": 236,
     "dailyMinutesDown": {
@@ -139,19 +139,19 @@
     "url": "http://app.minevn.net/pack",
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-maven-and-resource-pack",
-    "status": "up",
-    "uptime": "98.12%",
-    "uptimeDay": "76.97%",
-    "uptimeWeek": "45.69%",
-    "uptimeMonth": "83.85%",
-    "uptimeYear": "98.12%",
+    "status": "down",
+    "uptime": "98.13%",
+    "uptimeDay": "78.50%",
+    "uptimeWeek": "46.25%",
+    "uptimeMonth": "83.90%",
+    "uptimeYear": "98.13%",
     "time": 1572,
-    "timeDay": 1432,
+    "timeDay": 1443,
     "timeWeek": 1454,
     "timeMonth": 1461,
     "timeYear": 1572,
     "dailyMinutesDown": {
-      "2022-12-17": 150,
+      "2022-12-17": 151,
       "2022-12-16": 213,
       "2022-12-15": 503,
       "2022-12-14": 803,
@@ -165,7 +165,7 @@
       "2022-12-06": 231,
       "2022-12-05": 262,
       "2022-12-04": 290,
-      "2022-12-03": 69
+      "2022-12-03": 47
     }
   },
   {
@@ -173,14 +173,14 @@
     "url": "http://minevn.net",
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-website",
-    "status": "up",
-    "uptime": "98.13%",
-    "uptimeDay": "77.39%",
-    "uptimeWeek": "46.05%",
-    "uptimeMonth": "83.95%",
-    "uptimeYear": "98.13%",
+    "status": "down",
+    "uptime": "98.14%",
+    "uptimeDay": "78.92%",
+    "uptimeWeek": "46.61%",
+    "uptimeMonth": "84.04%",
+    "uptimeYear": "98.14%",
     "time": 1343,
-    "timeDay": 907,
+    "timeDay": 913,
     "timeWeek": 1020,
     "timeMonth": 1162,
     "timeYear": 1343,
@@ -199,7 +199,7 @@
       "2022-12-06": 249,
       "2022-12-05": 242,
       "2022-12-04": 281,
-      "2022-12-03": 121
+      "2022-12-03": 82
     }
   }
 ]
