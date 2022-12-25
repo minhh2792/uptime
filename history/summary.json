@@ -5,11 +5,11 @@
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-network",
     "status": "up",
-    "uptime": "63.56%",
+    "uptime": "63.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "91.76%",
-    "uptimeMonth": "81.54%",
-    "uptimeYear": "63.56%",
+    "uptimeMonth": "81.59%",
+    "uptimeYear": "63.57%",
     "time": 238,
     "timeDay": 226,
     "timeWeek": 279,
@@ -141,18 +141,19 @@
     "url": "http://app.minevn.net/pack",
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-maven-and-resource-pack",
-    "status": "up",
-    "uptime": "98.75%",
-    "uptimeDay": "65.92%",
+    "status": "down",
+    "uptime": "98.76%",
+    "uptimeDay": "65.87%",
     "uptimeWeek": "54.40%",
-    "uptimeMonth": "88.96%",
-    "uptimeYear": "98.75%",
+    "uptimeMonth": "89.02%",
+    "uptimeYear": "98.76%",
     "time": 1539,
     "timeDay": 1759,
     "timeWeek": 1442,
     "timeMonth": 1434,
     "timeYear": 1539,
     "dailyMinutesDown": {
+      "2022-12-25": 1,
       "2022-12-24": 491,
       "2022-12-23": 336,
       "2022-12-22": 691,
@@ -160,7 +161,7 @@
       "2022-12-20": 847,
       "2022-12-19": 1072,
       "2022-12-18": 594,
-      "2022-12-17": 141
+      "2022-12-17": 114
     }
   },
   {
@@ -168,18 +169,19 @@
     "url": "http://minevn.net",
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-website",
-    "status": "up",
-    "uptime": "98.75%",
-    "uptimeDay": "67.51%",
-    "uptimeWeek": "55.70%",
-    "uptimeMonth": "88.96%",
-    "uptimeYear": "98.75%",
+    "status": "down",
+    "uptime": "98.76%",
+    "uptimeDay": "67.49%",
+    "uptimeWeek": "55.69%",
+    "uptimeMonth": "89.04%",
+    "uptimeYear": "98.76%",
     "time": 1237,
     "timeDay": 974,
     "timeWeek": 899,
     "timeMonth": 1018,
     "timeYear": 1237,
     "dailyMinutesDown": {
+      "2022-12-25": 0,
       "2022-12-24": 470,
       "2022-12-23": 317,
       "2022-12-22": 668,
@@ -187,7 +189,7 @@
       "2022-12-20": 839,
       "2022-12-19": 1067,
       "2022-12-18": 570,
-      "2022-12-17": 270
+      "2022-12-17": 235
     }
   }
 ]
