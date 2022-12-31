@@ -5,11 +5,11 @@
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-network",
     "status": "up",
-    "uptime": "63.32%",
+    "uptime": "63.33%",
     "uptimeDay": "43.49%",
     "uptimeWeek": "58.19%",
     "uptimeMonth": "86.02%",
-    "uptimeYear": "63.32%",
+    "uptimeYear": "63.33%",
     "time": 239,
     "timeDay": 304,
     "timeWeek": 283,
@@ -146,19 +146,19 @@
     "url": "http://app.minevn.net/pack",
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-maven-and-resource-pack",
-    "status": "up",
-    "uptime": "98.01%",
-    "uptimeDay": "16.87%",
+    "status": "down",
+    "uptime": "98.02%",
+    "uptimeDay": "16.80%",
     "uptimeWeek": "35.50%",
-    "uptimeMonth": "81.95%",
-    "uptimeYear": "98.01%",
+    "uptimeMonth": "82.07%",
+    "uptimeYear": "98.02%",
     "time": 1526,
-    "timeDay": 1330,
+    "timeDay": 1305,
     "timeWeek": 1508,
     "timeMonth": 1428,
     "timeYear": 1526,
     "dailyMinutesDown": {
-      "2022-12-31": 307,
+      "2022-12-31": 308,
       "2022-12-30": 1130,
       "2022-12-29": 1440,
       "2022-12-28": 1440,
@@ -168,7 +168,7 @@
       "2022-12-24": 491,
       "2022-12-23": 336,
       "2022-12-22": 691,
-      "2022-12-21": 316
+      "2022-12-21": 264
     }
   },
   {
@@ -176,15 +176,15 @@
     "url": "http://minevn.net",
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-website",
-    "status": "up",
-    "uptime": "98.01%",
-    "uptimeDay": "17.10%",
-    "uptimeWeek": "35.97%",
-    "uptimeMonth": "81.94%",
-    "uptimeYear": "98.01%",
+    "status": "down",
+    "uptime": "98.02%",
+    "uptimeDay": "17.09%",
+    "uptimeWeek": "35.96%",
+    "uptimeMonth": "82.02%",
+    "uptimeYear": "98.02%",
     "time": 1209,
-    "timeDay": 846,
-    "timeWeek": 973,
+    "timeDay": 831,
+    "timeWeek": 974,
     "timeMonth": 1002,
     "timeYear": 1209,
     "dailyMinutesDown": {
@@ -198,7 +198,7 @@
       "2022-12-24": 470,
       "2022-12-23": 317,
       "2022-12-22": 668,
-      "2022-12-21": 414
+      "2022-12-21": 379
     }
   }
 ]
