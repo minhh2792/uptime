@@ -150,19 +150,19 @@
     "url": "http://app.minevn.net/pack",
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-maven-and-resource-pack",
-    "status": "up",
-    "uptime": "96.72%",
-    "uptimeDay": "67.16%",
-    "uptimeWeek": "22.94%",
-    "uptimeMonth": "69.68%",
-    "uptimeYear": "96.72%",
+    "status": "down",
+    "uptime": "96.73%",
+    "uptimeDay": "67.09%",
+    "uptimeWeek": "23.18%",
+    "uptimeMonth": "69.73%",
+    "uptimeYear": "96.73%",
     "time": 1515,
-    "timeDay": 1254,
+    "timeDay": 1255,
     "timeWeek": 1342,
     "timeMonth": 1421,
     "timeYear": 1515,
     "dailyMinutesDown": {
-      "2023-01-06": 35,
+      "2023-01-06": 36,
       "2023-01-05": 589,
       "2023-01-04": 745,
       "2023-01-03": 1399,
@@ -176,7 +176,7 @@
       "2022-12-26": 500,
       "2022-12-25": 590,
       "2022-12-24": 491,
-      "2022-12-23": 220
+      "2022-12-23": 196
     }
   },
   {
@@ -184,14 +184,14 @@
     "url": "http://minevn.net",
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-website",
-    "status": "up",
-    "uptime": "96.73%",
-    "uptimeDay": "67.69%",
-    "uptimeWeek": "23.17%",
-    "uptimeMonth": "69.73%",
-    "uptimeYear": "96.73%",
+    "status": "down",
+    "uptime": "96.74%",
+    "uptimeDay": "67.68%",
+    "uptimeWeek": "23.42%",
+    "uptimeMonth": "69.87%",
+    "uptimeYear": "96.74%",
     "time": 1215,
-    "timeDay": 1014,
+    "timeDay": 1018,
     "timeWeek": 1226,
     "timeMonth": 1013,
     "timeYear": 1215,
@@ -210,7 +210,7 @@
       "2022-12-26": 493,
       "2022-12-25": 583,
       "2022-12-24": 470,
-      "2022-12-23": 263
+      "2022-12-23": 202
     }
   }
 ]
