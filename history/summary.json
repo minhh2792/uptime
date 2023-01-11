@@ -5,11 +5,11 @@
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-network",
     "status": "up",
-    "uptime": "62.18%",
-    "uptimeDay": "15.46%",
+    "uptime": "62.19%",
+    "uptimeDay": "18.77%",
     "uptimeWeek": "48.25%",
-    "uptimeMonth": "63.45%",
-    "uptimeYear": "62.18%",
+    "uptimeMonth": "63.56%",
+    "uptimeYear": "62.19%",
     "time": 240,
     "timeDay": 268,
     "timeWeek": 284,
@@ -155,19 +155,19 @@
     "url": "http://app.minevn.net/pack",
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-maven-and-resource-pack",
-    "status": "up",
-    "uptime": "95.49%",
-    "uptimeDay": "14.67%",
-    "uptimeWeek": "29.36%",
-    "uptimeMonth": "57.51%",
-    "uptimeYear": "95.49%",
+    "status": "down",
+    "uptime": "95.50%",
+    "uptimeDay": "17.91%",
+    "uptimeWeek": "29.35%",
+    "uptimeMonth": "57.59%",
+    "uptimeYear": "95.50%",
     "time": 1524,
     "timeDay": 1829,
-    "timeWeek": 1527,
+    "timeWeek": 1533,
     "timeMonth": 1455,
     "timeYear": 1524,
     "dailyMinutesDown": {
-      "2023-01-11": 295,
+      "2023-01-11": 296,
       "2023-01-10": 1228,
       "2023-01-09": 1440,
       "2023-01-08": 1440,
@@ -185,7 +185,7 @@
       "2022-12-27": 662,
       "2022-12-26": 500,
       "2022-12-25": 590,
-      "2022-12-24": 61
+      "2022-12-24": 28
     }
   },
   {
@@ -193,15 +193,15 @@
     "url": "http://minevn.net",
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-website",
-    "status": "up",
+    "status": "down",
     "uptime": "95.50%",
-    "uptimeDay": "14.71%",
+    "uptimeDay": "18.00%",
     "uptimeWeek": "29.26%",
-    "uptimeMonth": "57.59%",
+    "uptimeMonth": "57.63%",
     "uptimeYear": "95.50%",
     "time": 1245,
     "timeDay": 1934,
-    "timeWeek": 1585,
+    "timeWeek": 1601,
     "timeMonth": 1071,
     "timeYear": 1245,
     "dailyMinutesDown": {
@@ -223,7 +223,7 @@
       "2022-12-27": 658,
       "2022-12-26": 493,
       "2022-12-25": 583,
-      "2022-12-24": 45
+      "2022-12-24": 27
     }
   }
 ]
