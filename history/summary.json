@@ -6,13 +6,13 @@
     "slug": "mine-vn-network",
     "status": "up",
     "uptime": "62.28%",
-    "uptimeDay": "72.76%",
+    "uptimeDay": "76.48%",
     "uptimeWeek": "50.36%",
     "uptimeMonth": "64.05%",
     "uptimeYear": "62.28%",
     "time": 240,
-    "timeDay": 263,
-    "timeWeek": 284,
+    "timeDay": 265,
+    "timeWeek": 286,
     "timeMonth": 282,
     "timeYear": 240,
     "dailyMinutesDown": {
@@ -155,19 +155,19 @@
     "url": "http://app.minevn.net/pack",
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-maven-and-resource-pack",
-    "status": "up",
-    "uptime": "95.47%",
-    "uptimeDay": "34.47%",
-    "uptimeWeek": "28.56%",
-    "uptimeMonth": "57.23%",
-    "uptimeYear": "95.47%",
+    "status": "down",
+    "uptime": "95.48%",
+    "uptimeDay": "38.12%",
+    "uptimeWeek": "29.06%",
+    "uptimeMonth": "57.28%",
+    "uptimeYear": "95.48%",
     "time": 1533,
     "timeDay": 1900,
-    "timeWeek": 1641,
+    "timeWeek": 1644,
     "timeMonth": 1477,
     "timeYear": 1533,
     "dailyMinutesDown": {
-      "2023-01-11": 835,
+      "2023-01-11": 836,
       "2023-01-10": 1228,
       "2023-01-09": 1440,
       "2023-01-08": 1440,
@@ -184,7 +184,7 @@
       "2022-12-28": 1440,
       "2022-12-27": 662,
       "2022-12-26": 500,
-      "2022-12-25": 235
+      "2022-12-25": 212
     }
   },
   {
@@ -192,15 +192,15 @@
     "url": "http://minevn.net",
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-website",
-    "status": "up",
-    "uptime": "95.48%",
-    "uptimeDay": "36.18%",
-    "uptimeWeek": "28.65%",
-    "uptimeMonth": "57.32%",
-    "uptimeYear": "95.48%",
+    "status": "down",
+    "uptime": "95.49%",
+    "uptimeDay": "39.88%",
+    "uptimeWeek": "29.15%",
+    "uptimeMonth": "57.37%",
+    "uptimeYear": "95.49%",
     "time": 1243,
     "timeDay": 1120,
-    "timeWeek": 1507,
+    "timeWeek": 1504,
     "timeMonth": 1070,
     "timeYear": 1243,
     "dailyMinutesDown": {
@@ -221,7 +221,7 @@
       "2022-12-28": 1440,
       "2022-12-27": 658,
       "2022-12-26": 493,
-      "2022-12-25": 232
+      "2022-12-25": 209
     }
   }
 ]
