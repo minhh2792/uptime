@@ -5,11 +5,11 @@
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-network",
     "status": "up",
-    "uptime": "62.93%",
+    "uptime": "62.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "77.78%",
     "uptimeMonth": "61.35%",
-    "uptimeYear": "62.93%",
+    "uptimeYear": "62.94%",
     "time": 242,
     "timeDay": 328,
     "timeWeek": 274,
@@ -158,11 +158,11 @@
     "url": "http://app.minevn.net/pack",
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-maven-and-resource-pack",
-    "status": "up",
+    "status": "down",
     "uptime": "98.48%",
-    "uptimeDay": "52.39%",
-    "uptimeWeek": "44.18%",
-    "uptimeMonth": "85.16%",
+    "uptimeDay": "54.84%",
+    "uptimeWeek": "44.19%",
+    "uptimeMonth": "85.21%",
     "uptimeYear": "98.48%",
     "time": 1544,
     "timeDay": 2129,
@@ -170,7 +170,7 @@
     "timeMonth": 1539,
     "timeYear": 1544,
     "dailyMinutesDown": {
-      "2023-01-21": 208,
+      "2023-01-21": 209,
       "2023-01-20": 564,
       "2023-01-19": 470,
       "2023-01-18": 571,
@@ -178,8 +178,7 @@
       "2023-01-16": 774,
       "2023-01-15": 1440,
       "2023-01-14": 1041,
-      "2023-01-13": 674,
-      "2023-01-12": 22
+      "2023-01-13": 674
     }
   },
   {
@@ -187,15 +186,15 @@
     "url": "http://minevn.net",
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-website",
-    "status": "up",
-    "uptime": "98.49%",
-    "uptimeDay": "55.44%",
-    "uptimeWeek": "45.51%",
-    "uptimeMonth": "85.30%",
-    "uptimeYear": "98.49%",
+    "status": "down",
+    "uptime": "98.50%",
+    "uptimeDay": "57.88%",
+    "uptimeWeek": "45.53%",
+    "uptimeMonth": "85.36%",
+    "uptimeYear": "98.50%",
     "time": 1223,
-    "timeDay": 1398,
-    "timeWeek": 1137,
+    "timeDay": 1415,
+    "timeWeek": 1136,
     "timeMonth": 1128,
     "timeYear": 1223,
     "dailyMinutesDown": {
@@ -208,7 +207,7 @@
       "2023-01-15": 1440,
       "2023-01-14": 1035,
       "2023-01-13": 664,
-      "2023-01-12": 109
+      "2023-01-12": 80
     }
   }
 ]
