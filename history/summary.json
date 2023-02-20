@@ -4,10 +4,10 @@
     "url": "minevn.net",
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-network",
-    "status": "up",
+    "status": "down",
     "uptime": "57.25%",
-    "uptimeDay": "2.88%",
-    "uptimeWeek": "0.41%",
+    "uptimeDay": "4.12%",
+    "uptimeWeek": "0.59%",
     "uptimeMonth": "1.94%",
     "uptimeYear": "57.25%",
     "time": 242,
@@ -16,7 +16,7 @@
     "timeMonth": 295,
     "timeYear": 242,
     "dailyMinutesDown": {
-      "2023-02-20": 758,
+      "2023-02-20": 759,
       "2023-02-19": 1440,
       "2023-02-18": 1440,
       "2023-02-17": 1440,
@@ -189,19 +189,19 @@
     "url": "http://app.minevn.net/pack",
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-maven-and-resource-pack",
-    "status": "up",
+    "status": "down",
     "uptime": "89.54%",
-    "uptimeDay": "0.96%",
-    "uptimeWeek": "0.14%",
+    "uptimeDay": "2.23%",
+    "uptimeWeek": "0.32%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "89.54%",
     "time": 1542,
     "timeDay": 1756,
     "timeWeek": 1756,
-    "timeMonth": 1610,
+    "timeMonth": 1618,
     "timeYear": 1542,
     "dailyMinutesDown": {
-      "2023-02-20": 786,
+      "2023-02-20": 787,
       "2023-02-19": 1440,
       "2023-02-18": 1440,
       "2023-02-17": 1440,
@@ -239,7 +239,7 @@
       "2023-01-16": 774,
       "2023-01-15": 1440,
       "2023-01-14": 1041,
-      "2023-01-13": 97
+      "2023-01-13": 80
     }
   },
   {
@@ -247,16 +247,16 @@
     "url": "http://minevn.net",
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-website",
-    "status": "up",
-    "uptime": "89.56%",
-    "uptimeDay": "1.00%",
-    "uptimeWeek": "0.14%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "89.56%",
+    "status": "down",
+    "uptime": "89.57%",
+    "uptimeDay": "2.29%",
+    "uptimeWeek": "0.33%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "89.57%",
     "time": 1220,
     "timeDay": 1083,
     "timeWeek": 1083,
-    "timeMonth": 1259,
+    "timeMonth": 1267,
     "timeYear": 1220,
     "dailyMinutesDown": {
       "2023-02-20": 785,
@@ -297,7 +297,7 @@
       "2023-01-16": 764,
       "2023-01-15": 1440,
       "2023-01-14": 1035,
-      "2023-01-13": 172
+      "2023-01-13": 113
     }
   }
 ]
