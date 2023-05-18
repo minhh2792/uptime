@@ -1,7 +1,7 @@
 url: http://minevn.net
-status: up
+status: degraded
 code: 200
-responseTime: 934
-lastUpdated: 2023-05-17T23:02:09.274Z
+responseTime: 8620
+lastUpdated: 2023-05-18T07:36:21.104Z
 startTime: Wed Mar 30 2022 15:35:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
