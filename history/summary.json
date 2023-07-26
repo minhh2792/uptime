@@ -4,18 +4,19 @@
     "url": "minevn.net",
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-network",
-    "status": "up",
-    "uptime": "60.28%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "87.89%",
+    "status": "down",
+    "uptime": "60.29%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "87.88%",
     "uptimeMonth": "97.21%",
-    "uptimeYear": "47.78%",
+    "uptimeYear": "47.82%",
     "time": 249,
     "timeDay": 249,
     "timeWeek": 245,
     "timeMonth": 248,
     "timeYear": 265,
     "dailyMinutesDown": {
+      "2023-07-26": 1,
       "2023-07-24": 135,
       "2023-07-23": 1085,
       "2023-06-17": 414,
@@ -238,18 +239,19 @@
     "url": "http://app.minevn.net/pack",
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-maven-and-resource-pack",
-    "status": "up",
-    "uptime": "82.26%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "87.90%",
+    "status": "down",
+    "uptime": "82.27%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "87.89%",
     "uptimeMonth": "97.09%",
-    "uptimeYear": "76.55%",
+    "uptimeYear": "76.56%",
     "time": 1708,
     "timeDay": 1067,
     "timeWeek": 672,
     "timeMonth": 718,
     "timeYear": 1770,
     "dailyMinutesDown": {
+      "2023-07-26": 1,
       "2023-07-24": 136,
       "2023-07-23": 1084,
       "2023-07-07": 19,
@@ -363,7 +365,7 @@
       "2023-01-20": 564,
       "2023-01-19": 470,
       "2023-01-18": 571,
-      "2023-01-17": 258
+      "2023-01-17": 210
     }
   },
   {
@@ -371,9 +373,9 @@
     "url": "http://minevn.net",
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-website",
-    "status": "up",
-    "uptime": "82.23%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "82.24%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "87.90%",
     "uptimeMonth": "97.17%",
     "uptimeYear": "76.52%",
@@ -383,6 +385,7 @@
     "timeMonth": 964,
     "timeYear": 1328,
     "dailyMinutesDown": {
+      "2023-07-26": 0,
       "2023-07-24": 136,
       "2023-07-23": 1084,
       "2023-07-07": 18,
@@ -487,7 +490,7 @@
       "2023-01-19": 443,
       "2023-01-18": 536,
       "2023-01-17": 727,
-      "2023-01-16": 29
+      "2023-01-16": 2
     }
   }
 ]
