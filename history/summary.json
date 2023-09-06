@@ -8,12 +8,12 @@
     "uptime": "58.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "38.31%",
-    "uptimeYear": "49.41%",
-    "time": 261,
-    "timeDay": 276,
-    "timeWeek": 243,
-    "timeMonth": 275,
+    "uptimeMonth": "38.63%",
+    "uptimeYear": "49.44%",
+    "time": 262,
+    "timeDay": 233,
+    "timeWeek": 246,
+    "timeMonth": 272,
     "timeYear": 270,
     "dailyMinutesDown": {
       "2023-08-24": 1080,
@@ -221,8 +221,7 @@
       "2022-09-10": 1440,
       "2022-09-09": 1440,
       "2022-09-08": 1440,
-      "2022-09-07": 1440,
-      "2022-09-06": 1440
+      "2022-09-07": 1440
     }
   },
   {
@@ -232,17 +231,16 @@
     "slug": "mine-vn-maven-and-resource-pack",
     "status": "up",
     "uptime": "78.70%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "95.11%",
-    "uptimeMonth": "37.09%",
-    "uptimeYear": "69.40%",
-    "time": 1774,
-    "timeDay": 4473,
-    "timeWeek": 3972,
-    "timeMonth": 2955,
-    "timeYear": 1775,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.22%",
+    "uptimeMonth": "37.43%",
+    "uptimeYear": "69.39%",
+    "time": 1773,
+    "timeDay": 4444,
+    "timeWeek": 3969,
+    "timeMonth": 2862,
+    "timeYear": 1773,
     "dailyMinutesDown": {
-      "2023-09-05": 11,
       "2023-09-03": 145,
       "2023-09-02": 337,
       "2023-08-28": 77,
@@ -388,7 +386,7 @@
       "2023-01-21": 1043,
       "2023-01-20": 564,
       "2023-01-19": 470,
-      "2023-01-18": 370
+      "2023-01-18": 439
     }
   },
   {
@@ -400,13 +398,13 @@
     "uptime": "78.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.23%",
-    "uptimeMonth": "37.35%",
+    "uptimeMonth": "37.67%",
     "uptimeYear": "69.36%",
     "time": 1331,
-    "timeDay": 954,
-    "timeWeek": 1062,
-    "timeMonth": 2153,
-    "timeYear": 1288,
+    "timeDay": 831,
+    "timeWeek": 1055,
+    "timeMonth": 2083,
+    "timeYear": 1287,
     "dailyMinutesDown": {
       "2023-09-03": 145,
       "2023-09-02": 336,
