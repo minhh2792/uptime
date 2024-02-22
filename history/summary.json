@@ -5,18 +5,19 @@
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-network",
     "status": "down",
-    "uptime": "58.58%",
+    "uptime": "58.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "59.84%",
+    "uptimeYear": "59.80%",
     "time": 263,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 260,
     "dailyMinutesDown": {
-      "2024-02-21": 74,
+      "2024-02-22": 73,
+      "2024-02-21": 1440,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
       "2024-02-18": 1440,
@@ -169,8 +170,7 @@
       "2023-03-17": 1440,
       "2023-03-16": 1440,
       "2023-03-15": 1440,
-      "2023-03-14": 651,
-      "2023-02-22": 163
+      "2023-03-14": 651
     }
   },
   {
@@ -179,18 +179,19 @@
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-maven-and-resource-pack",
     "status": "down",
-    "uptime": "73.78%",
+    "uptime": "73.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "58.89%",
-    "time": 2131,
+    "uptimeYear": "58.88%",
+    "time": 2133,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2190,
+    "timeYear": 2193,
     "dailyMinutesDown": {
-      "2024-02-21": 74,
+      "2024-02-22": 73,
+      "2024-02-21": 1440,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
       "2024-02-18": 1440,
@@ -376,8 +377,7 @@
       "2023-03-12": 20,
       "2023-03-09": 34,
       "2023-02-28": 19,
-      "2023-02-26": 23,
-      "2023-02-22": 163
+      "2023-02-26": 23
     }
   },
   {
@@ -386,18 +386,19 @@
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-website",
     "status": "down",
-    "uptime": "73.76%",
+    "uptime": "73.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "58.97%",
+    "uptimeYear": "58.96%",
     "time": 1413,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1433,
+    "timeYear": 1434,
     "dailyMinutesDown": {
-      "2024-02-21": 74,
+      "2024-02-22": 73,
+      "2024-02-21": 1440,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
       "2024-02-18": 1440,
@@ -566,8 +567,7 @@
       "2023-03-15": 1440,
       "2023-03-14": 650,
       "2023-03-12": 28,
-      "2023-02-28": 67,
-      "2023-02-22": 164
+      "2023-02-28": 67
     }
   }
 ]
