@@ -5,15 +5,15 @@
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-network",
     "status": "up",
-    "uptime": "57.09%",
+    "uptime": "57.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "61.73%",
-    "uptimeYear": "59.23%",
-    "time": 257,
-    "timeDay": 222,
-    "timeWeek": 214,
-    "timeMonth": 209,
+    "uptimeMonth": "65.12%",
+    "uptimeYear": "59.51%",
+    "time": 256,
+    "timeDay": 168,
+    "timeWeek": 206,
+    "timeMonth": 207,
     "timeYear": 254,
     "dailyMinutesDown": {
       "2024-04-02": 329,
@@ -171,8 +171,7 @@
       "2023-04-19": 1440,
       "2023-04-18": 1440,
       "2023-04-17": 1440,
-      "2023-04-16": 1440,
-      "2023-04-15": 1440
+      "2023-04-16": 1440
     }
   },
   {
@@ -181,16 +180,16 @@
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-maven-and-resource-pack",
     "status": "up",
-    "uptime": "71.26%",
+    "uptime": "71.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "62.64%",
-    "uptimeYear": "58.41%",
-    "time": 2074,
-    "timeDay": 520,
-    "timeWeek": 488,
-    "timeMonth": 475,
-    "timeYear": 1937,
+    "uptimeMonth": "66.03%",
+    "uptimeYear": "58.70%",
+    "time": 2070,
+    "timeDay": 361,
+    "timeWeek": 465,
+    "timeMonth": 470,
+    "timeYear": 1933,
     "dailyMinutesDown": {
       "2024-03-24": 587,
       "2024-03-23": 1440,
@@ -372,8 +371,7 @@
       "2023-04-19": 1440,
       "2023-04-18": 1440,
       "2023-04-17": 1440,
-      "2023-04-16": 1440,
-      "2023-04-15": 1440
+      "2023-04-16": 1440
     }
   },
   {
@@ -382,16 +380,16 @@
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-website",
     "status": "up",
-    "uptime": "71.25%",
+    "uptime": "71.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "62.64%",
-    "uptimeYear": "58.48%",
-    "time": 1350,
-    "timeDay": 475,
-    "timeWeek": 452,
-    "timeMonth": 450,
-    "timeYear": 1257,
+    "uptimeMonth": "66.03%",
+    "uptimeYear": "58.77%",
+    "time": 1348,
+    "timeDay": 393,
+    "timeWeek": 434,
+    "timeMonth": 447,
+    "timeYear": 1254,
     "dailyMinutesDown": {
       "2024-03-24": 587,
       "2024-03-23": 1440,
@@ -559,8 +557,7 @@
       "2023-04-19": 1440,
       "2023-04-18": 1440,
       "2023-04-17": 1440,
-      "2023-04-16": 1440,
-      "2023-04-15": 1440
+      "2023-04-16": 1440
     }
   }
 ]
