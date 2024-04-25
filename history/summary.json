@@ -5,15 +5,15 @@
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-network",
     "status": "up",
-    "uptime": "57.71%",
+    "uptime": "57.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.93%",
-    "uptimeYear": "62.25%",
+    "uptimeMonth": "99.09%",
+    "uptimeYear": "62.52%",
     "time": 254,
-    "timeDay": 222,
-    "timeWeek": 217,
-    "timeMonth": 208,
+    "timeDay": 207,
+    "timeWeek": 215,
+    "timeMonth": 207,
     "timeYear": 252,
     "dailyMinutesDown": {
       "2024-04-02": 329,
@@ -160,8 +160,7 @@
       "2023-04-30": 1440,
       "2023-04-29": 1440,
       "2023-04-28": 1440,
-      "2023-04-27": 1440,
-      "2023-04-26": 1440
+      "2023-04-27": 1440
     }
   },
   {
@@ -170,16 +169,16 @@
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-maven-and-resource-pack",
     "status": "up",
-    "uptime": "71.68%",
+    "uptime": "71.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.84%",
-    "uptimeYear": "61.43%",
-    "time": 2038,
-    "timeDay": 453,
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "61.71%",
+    "time": 2034,
+    "timeDay": 452,
     "timeWeek": 477,
-    "timeMonth": 468,
-    "timeYear": 1888,
+    "timeMonth": 467,
+    "timeYear": 1884,
     "dailyMinutesDown": {
       "2024-03-24": 587,
       "2024-03-23": 1440,
@@ -350,8 +349,7 @@
       "2023-04-30": 1440,
       "2023-04-29": 1440,
       "2023-04-28": 1440,
-      "2023-04-27": 1440,
-      "2023-04-26": 1440
+      "2023-04-27": 1440
     }
   },
   {
@@ -360,16 +358,16 @@
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-website",
     "status": "up",
-    "uptime": "71.67%",
+    "uptime": "71.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.84%",
-    "uptimeYear": "61.50%",
-    "time": 1325,
-    "timeDay": 526,
-    "timeWeek": 456,
-    "timeMonth": 446,
-    "timeYear": 1225,
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "61.78%",
+    "time": 1322,
+    "timeDay": 427,
+    "timeWeek": 453,
+    "timeMonth": 444,
+    "timeYear": 1222,
     "dailyMinutesDown": {
       "2024-03-24": 587,
       "2024-03-23": 1440,
@@ -526,8 +524,7 @@
       "2023-04-30": 1440,
       "2023-04-29": 1440,
       "2023-04-28": 1440,
-      "2023-04-27": 1440,
-      "2023-04-26": 1440
+      "2023-04-27": 1440
     }
   }
 ]
