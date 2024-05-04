@@ -5,15 +5,15 @@
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-network",
     "status": "up",
-    "uptime": "58.24%",
+    "uptime": "58.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "64.54%",
     "time": 252,
-    "timeDay": 207,
-    "timeWeek": 201,
-    "timeMonth": 207,
+    "timeDay": 232,
+    "timeWeek": 210,
+    "timeMonth": 208,
     "timeYear": 250,
     "dailyMinutesDown": {
       "2024-04-02": 329,
@@ -163,14 +163,14 @@
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-maven-and-resource-pack",
     "status": "up",
-    "uptime": "72.03%",
+    "uptime": "72.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "63.72%",
-    "time": 1978,
-    "timeDay": 480,
-    "timeWeek": 453,
+    "time": 1974,
+    "timeDay": 457,
+    "timeWeek": 462,
     "timeMonth": 462,
     "timeYear": 1835,
     "dailyMinutesDown": {
@@ -336,8 +336,7 @@
       "2023-05-11": 45,
       "2023-05-09": 28,
       "2023-05-07": 53,
-      "2023-05-06": 23,
-      "2023-05-05": 136
+      "2023-05-06": 23
     }
   },
   {
@@ -346,18 +345,19 @@
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-website",
     "status": "down",
-    "uptime": "72.02%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "63.79%",
+    "uptime": "71.98%",
+    "uptimeDay": "52.54%",
+    "uptimeWeek": "93.22%",
+    "uptimeMonth": "98.44%",
+    "uptimeYear": "63.66%",
     "time": 1304,
-    "timeDay": 439,
-    "timeWeek": 441,
-    "timeMonth": 446,
-    "timeYear": 1203,
+    "timeDay": 0,
+    "timeWeek": 446,
+    "timeMonth": 444,
+    "timeYear": 1204,
     "dailyMinutesDown": {
-      "2024-05-03": 0,
+      "2024-05-04": 76,
+      "2024-05-03": 607,
       "2024-03-24": 587,
       "2024-03-23": 1440,
       "2024-03-22": 1440,
@@ -506,8 +506,7 @@
       "2023-05-14": 248,
       "2023-05-11": 45,
       "2023-05-09": 28,
-      "2023-05-07": 75,
-      "2023-05-05": 151
+      "2023-05-07": 75
     }
   }
 ]
