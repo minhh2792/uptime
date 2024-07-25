@@ -5,18 +5,19 @@
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-network",
     "status": "down",
-    "uptime": "58.55%",
+    "uptime": "58.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "20.55%",
     "uptimeMonth": "6.72%",
-    "uptimeYear": "56.30%",
+    "uptimeYear": "56.22%",
     "time": 246,
     "timeDay": 0,
     "timeWeek": 229,
     "timeMonth": 229,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2024-07-24": 1101,
+      "2024-07-25": 86,
+      "2024-07-24": 1440,
       "2024-07-23": 526,
       "2024-07-22": 283,
       "2024-07-21": 1440,
@@ -184,8 +185,7 @@
       "2023-08-02": 1383,
       "2023-08-01": 1440,
       "2023-07-31": 1440,
-      "2023-07-30": 905,
-      "2023-07-26": 204
+      "2023-07-30": 905
     }
   },
   {
@@ -194,15 +194,15 @@
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-maven-and-resource-pack",
     "status": "up",
-    "uptime": "74.68%",
+    "uptime": "74.69%",
     "uptimeDay": "97.25%",
     "uptimeWeek": "99.61%",
     "uptimeMonth": "98.48%",
     "uptimeYear": "64.47%",
     "time": 1533,
-    "timeDay": 734,
-    "timeWeek": 628,
-    "timeMonth": 950,
+    "timeDay": 770,
+    "timeWeek": 634,
+    "timeMonth": 954,
     "timeYear": 1316,
     "dailyMinutesDown": {
       "2024-07-24": 40,
@@ -351,8 +351,7 @@
       "2023-08-01": 1440,
       "2023-07-31": 1440,
       "2023-07-30": 904,
-      "2023-07-27": 477,
-      "2023-07-26": 556
+      "2023-07-27": 477
     }
   },
   {
@@ -361,16 +360,16 @@
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-website",
     "status": "up",
-    "uptime": "65.18%",
+    "uptime": "65.19%",
     "uptimeDay": "93.45%",
-    "uptimeWeek": "15.21%",
-    "uptimeMonth": "4.88%",
+    "uptimeWeek": "19.41%",
+    "uptimeMonth": "5.85%",
     "uptimeYear": "42.52%",
-    "time": 1206,
-    "timeDay": 1375,
-    "timeWeek": 1311,
-    "timeMonth": 1311,
-    "timeYear": 1024,
+    "time": 1207,
+    "timeDay": 1452,
+    "timeWeek": 1323,
+    "timeMonth": 1323,
+    "timeYear": 1027,
     "dailyMinutesDown": {
       "2024-07-24": 94,
       "2024-07-23": 915,
@@ -588,8 +587,7 @@
       "2023-08-01": 1440,
       "2023-07-31": 1440,
       "2023-07-30": 904,
-      "2023-07-27": 477,
-      "2023-07-26": 556
+      "2023-07-27": 477
     }
   }
 ]
