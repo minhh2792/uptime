@@ -5,7 +5,7 @@
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-network",
     "status": "down",
-    "uptime": "57.84%",
+    "uptime": "57.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "6.95%",
     "uptimeMonth": "5.03%",
@@ -16,7 +16,8 @@
     "timeMonth": 208,
     "timeYear": 239,
     "dailyMinutesDown": {
-      "2024-08-05": 95,
+      "2024-08-06": 93,
+      "2024-08-05": 1440,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
       "2024-08-02": 1440,
@@ -187,8 +188,7 @@
       "2023-08-11": 1440,
       "2023-08-10": 1440,
       "2023-08-09": 1440,
-      "2023-08-08": 1440,
-      "2023-08-07": 1440
+      "2023-08-08": 1440
     }
   },
   {
@@ -197,16 +197,16 @@
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-maven-and-resource-pack",
     "status": "up",
-    "uptime": "74.83%",
-    "uptimeDay": "98.64%",
+    "uptime": "74.86%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "76.47%",
     "uptimeMonth": "94.33%",
-    "uptimeYear": "65.76%",
-    "time": 1475,
-    "timeDay": 972,
-    "timeWeek": 697,
-    "timeMonth": 913,
-    "timeYear": 1287,
+    "uptimeYear": "66.04%",
+    "time": 1474,
+    "timeDay": 1436,
+    "timeWeek": 820,
+    "timeMonth": 929,
+    "timeYear": 1288,
     "dailyMinutesDown": {
       "2024-08-04": 20,
       "2024-08-01": 1128,
@@ -348,8 +348,7 @@
       "2023-08-11": 1440,
       "2023-08-10": 1440,
       "2023-08-09": 1440,
-      "2023-08-08": 1440,
-      "2023-08-07": 1440
+      "2023-08-08": 1440
     }
   },
   {
@@ -358,16 +357,16 @@
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-website",
     "status": "up",
-    "uptime": "65.45%",
-    "uptimeDay": "98.64%",
+    "uptime": "65.49%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "75.78%",
-    "uptimeMonth": "33.13%",
-    "uptimeYear": "43.80%",
-    "time": 1225,
-    "timeDay": 1111,
-    "timeWeek": 1599,
-    "timeMonth": 1420,
-    "timeYear": 1076,
+    "uptimeMonth": "36.41%",
+    "uptimeYear": "44.07%",
+    "time": 1227,
+    "timeDay": 1732,
+    "timeWeek": 1644,
+    "timeMonth": 1428,
+    "timeYear": 1079,
     "dailyMinutesDown": {
       "2024-08-04": 20,
       "2024-08-01": 1158,
@@ -579,8 +578,7 @@
       "2023-08-11": 1440,
       "2023-08-10": 1440,
       "2023-08-09": 1440,
-      "2023-08-08": 1440,
-      "2023-08-07": 1440
+      "2023-08-08": 1440
     }
   }
 ]
