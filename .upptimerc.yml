@@ -53,7 +53,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   favicon: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   theme: night
-  name: Uptime Monitor
+  name: Uptime Monitor 
   introTitle: ""
   introMessage: ""
   navbar:
