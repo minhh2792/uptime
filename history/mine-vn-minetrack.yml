@@ -1,7 +1,7 @@
 url: https://track.minevn.net
-status: up
-code: 200
-responseTime: 897
-lastUpdated: 2024-08-17T23:13:37.834Z
+status: down
+code: 502
+responseTime: 3660
+lastUpdated: 2024-08-18T16:31:02.232Z
 startTime: 2024-08-16T07:54:44.956Z
 generator: Upptime <https://github.com/upptime/upptime>
