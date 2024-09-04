@@ -44,18 +44,19 @@
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-maven-repo-and-resource-pack-server",
     "status": "down",
-    "uptime": "98.54%",
-    "uptimeDay": "72.67%",
-    "uptimeWeek": "96.10%",
-    "uptimeMonth": "98.54%",
-    "uptimeYear": "98.54%",
+    "uptime": "98.21%",
+    "uptimeDay": "66.57%",
+    "uptimeWeek": "95.22%",
+    "uptimeMonth": "98.21%",
+    "uptimeYear": "98.21%",
     "time": 744,
     "timeDay": 325,
     "timeWeek": 648,
     "timeMonth": 744,
     "timeYear": 744,
     "dailyMinutesDown": {
-      "2024-09-03": 394
+      "2024-09-04": 76,
+      "2024-09-03": 405
     }
   },
   {
@@ -64,18 +65,19 @@
     "icon": "https://i.imgur.com/OGV4Bar.png",
     "slug": "mine-vn-website",
     "status": "down",
-    "uptime": "98.54%",
-    "uptimeDay": "72.67%",
-    "uptimeWeek": "96.10%",
-    "uptimeMonth": "98.54%",
-    "uptimeYear": "98.54%",
+    "uptime": "98.21%",
+    "uptimeDay": "66.57%",
+    "uptimeWeek": "95.22%",
+    "uptimeMonth": "98.21%",
+    "uptimeYear": "98.21%",
     "time": 2910,
     "timeDay": 379,
     "timeWeek": 706,
     "timeMonth": 2910,
     "timeYear": 2910,
     "dailyMinutesDown": {
-      "2024-09-03": 394
+      "2024-09-04": 76,
+      "2024-09-03": 405
     }
   },
   {
@@ -84,18 +86,19 @@
     "icon": "https://raw.githubusercontent.com/Cryptkeeper/Minetrack/main/assets/images/logo.svg",
     "slug": "mine-vn-minetrack",
     "status": "down",
-    "uptime": "98.32%",
-    "uptimeDay": "72.67%",
-    "uptimeWeek": "96.10%",
-    "uptimeMonth": "98.32%",
-    "uptimeYear": "98.32%",
+    "uptime": "98.00%",
+    "uptimeDay": "66.57%",
+    "uptimeWeek": "95.22%",
+    "uptimeMonth": "98.00%",
+    "uptimeYear": "98.00%",
     "time": 849,
     "timeDay": 279,
     "timeWeek": 611,
     "timeMonth": 849,
     "timeYear": 849,
     "dailyMinutesDown": {
-      "2024-09-03": 394,
+      "2024-09-04": 76,
+      "2024-09-03": 405,
       "2024-08-18": 58
     }
   },
@@ -105,18 +108,19 @@
     "icon": "https://grafana.com/static/assets/img/fav32.png",
     "slug": "mine-vn-grafana",
     "status": "down",
-    "uptime": "98.32%",
-    "uptimeDay": "72.67%",
-    "uptimeWeek": "96.10%",
-    "uptimeMonth": "98.32%",
-    "uptimeYear": "98.32%",
+    "uptime": "98.00%",
+    "uptimeDay": "66.57%",
+    "uptimeWeek": "95.22%",
+    "uptimeMonth": "98.00%",
+    "uptimeYear": "98.00%",
     "time": 1226,
     "timeDay": 373,
     "timeWeek": 952,
     "timeMonth": 1226,
     "timeYear": 1226,
     "dailyMinutesDown": {
-      "2024-09-03": 394,
+      "2024-09-04": 76,
+      "2024-09-03": 405,
       "2024-08-18": 58
     }
   }
