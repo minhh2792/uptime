@@ -1,7 +1,7 @@
 url: https://license.minevn.net/
-status: up
-code: 404
-responseTime: 934
-lastUpdated: 2024-10-02T23:16:07.707Z
+status: degraded
+code: 525
+responseTime: 10068
+lastUpdated: 2024-10-03T09:38:23.502Z
 startTime: 2024-08-16T07:54:40.347Z
 generator: Upptime <https://github.com/upptime/upptime>
