@@ -16,7 +16,7 @@
     "timeMonth": 111,
     "timeYear": 886,
     "dailyMinutesDown": {
-      "2025-01-03": 1229,
+      "2025-01-03": 1252,
       "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
@@ -105,7 +105,7 @@
     "timeMonth": 0,
     "timeYear": 77,
     "dailyMinutesDown": {
-      "2025-01-03": 1229,
+      "2025-01-03": 1252,
       "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
@@ -353,17 +353,17 @@
     "url": "https://grafana.minevn.net",
     "icon": "https://grafana.com/static/assets/img/fav32.png",
     "slug": "mine-vn-grafana",
-    "status": "up",
-    "uptime": "98.56%",
-    "uptimeDay": "78.14%",
+    "status": "down",
+    "uptime": "98.57%",
+    "uptimeDay": "78.13%",
     "uptimeWeek": "80.68%",
-    "uptimeMonth": "93.34%",
-    "uptimeYear": "98.56%",
-    "time": 2312,
-    "timeDay": 2849,
-    "timeWeek": 2671,
-    "timeMonth": 2615,
-    "timeYear": 2312,
+    "uptimeMonth": "93.37%",
+    "uptimeYear": "98.57%",
+    "time": 2314,
+    "timeDay": 2876,
+    "timeWeek": 2675,
+    "timeMonth": 2618,
+    "timeYear": 2314,
     "dailyMinutesDown": {
       "2025-01-03": 297,
       "2025-01-02": 407,
@@ -377,7 +377,7 @@
       "2024-12-25": 265,
       "2024-12-24": 291,
       "2024-12-23": 86,
-      "2024-12-22": 48
+      "2024-12-22": 32
     }
   }
 ]
