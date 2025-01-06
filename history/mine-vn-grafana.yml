@@ -1,7 +1,7 @@
 url: https://grafana.minevn.net
-status: down
-code: 502
-responseTime: 3827
-lastUpdated: 2025-01-06T23:10:09.953Z
+status: up
+code: 200
+responseTime: 1102
+lastUpdated: 2025-01-06T23:17:25.568Z
 startTime: 2024-08-16T07:54:46.030Z
 generator: Upptime <https://github.com/upptime/upptime>
