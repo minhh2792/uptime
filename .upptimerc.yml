@@ -49,7 +49,7 @@ sites:
       - 404
     icon: https://grafana.com/static/assets/img/fav32.png
 status-website:
-  baseUrl: /uptime
+  baseUrl: https://minhh2792.moe/uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   favicon: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   theme: night
@@ -58,6 +58,6 @@ status-website:
   introMessage: ""
   navbar:
     - title: Status
-      href: https://minhh2792.github.io/uptime/
+      href: https://minhh2792.moe/uptime/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
