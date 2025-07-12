@@ -1,7 +1,7 @@
 url: https://pack.minevn.net
-status: up
-code: 200
-responseTime: 738
-lastUpdated: 2025-07-11T23:19:58.050Z
+status: degraded
+code: 522
+responseTime: 19685
+lastUpdated: 2025-07-12T11:28:09.591Z
 startTime: 2024-08-16T07:54:42.558Z
 generator: Upptime <https://github.com/upptime/upptime>
